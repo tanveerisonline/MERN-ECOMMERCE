@@ -1,0 +1,31 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce app developed using MERN-STACK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanveerisonline/MERN-ECOMMERCE.git"
+  },
+  "keywords": [
+    "ecommerce-app",
+    "mern-stack"
+  ],
+  "author": "Tanveer Ahmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanveerisonline/MERN-ECOMMERCE/issues"
+  },
+  "homepage": "https://github.com/tanveerisonline/MERN-ECOMMERCE#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
