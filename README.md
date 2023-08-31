@@ -1,1 +1,2 @@
-"# MERN-ECOMMERCE" 
+"# MERN-E-COMMERCE" 
+I'm currently working on building an e-commerce project, which involves creating an online platform where users can browse, select, and purchase a wide range of products. The project focuses on designing an intuitive user interface, implementing secure payment gateways, and establishing efficient inventory management to provide a seamless and convenient shopping experience for customers.
